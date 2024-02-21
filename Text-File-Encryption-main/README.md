@@ -5,7 +5,7 @@ We will use the cryptography library in python to encrypt a file. The cryptograp
 
 ### Contributors
 - [SHLOK BHURA](https://github.com/shlokbhura) 16010121023 
-- [KASHVI MODY]() 16010121114
+- [KASHVI MODY](https://github.com/kashvimody/) 16010121114
 
 
 
